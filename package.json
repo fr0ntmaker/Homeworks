@@ -8,8 +8,19 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@progress/kendo-datasource-vue-wrapper": "^2019.2.621",
+    "@progress/kendo-dateinputs-vue-wrapper": "^2019.2.621",
+    "@progress/kendo-diagram-vue-wrapper": "^2019.2.621",
+    "@progress/kendo-map-vue-wrapper": "^2019.2.621",
+    "@progress/kendo-theme-default": "^4.1.0",
+    "@progress/kendo-ui": "^2019.2.807",
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.27",
     "core-js": "^2.6.5",
+    "popper.js": "^1.15.0",
+    "portal-vue": "^2.1.6",
     "vue": "^2.6.10",
+    "vue-functional-data-merge": "^3.1.0",
     "vue-router": "^3.0.3",
     "vuex": "^3.0.1"
   },
